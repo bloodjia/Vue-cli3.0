@@ -1,0 +1,13 @@
+ td{
+            border:1px solid gray;
+        }
+         
+        table{
+            border-collapse:collapse;
+        }
+     
+        #div1#app{
+            margin:20px auto;
+            width:400px;
+            padding:20px;
+        }

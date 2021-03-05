@@ -1,0 +1,23 @@
+a{
+      text-decoration: none;
+    }
+    a.router-link-active{
+    /*   color:blue; */
+      background-color: lightGray;
+    }
+    div.menu{
+        border:1px solid gray;
+
+    }
+    div.menu a{
+        display:block;
+    }
+     
+    div.workingRoom{
+        margin-left:100px;
+    }
+     
+    div#app{
+        padding:10px;
+        margin:10px auto;
+    }
